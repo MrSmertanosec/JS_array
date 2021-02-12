@@ -7,6 +7,7 @@ int main()
 	JS_array arr;
 	Test type;
 	type.a = 1;
+
 	double aa;
 	std::cin >> aa;
 
